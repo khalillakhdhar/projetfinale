@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "es2018",
+    "module": "commonjs", // eslint-disable-line utilisation exports imports
+    "sourceMap": true,
+    "outDir": "./dist",
+    "strict": true,
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true
+  },
+  "include": ["./src/**/*"]
+}

@@ -1,0 +1,6 @@
+# src
+
+run:
+```
+npx src
+```

@@ -1,0 +1,22 @@
+{
+  "name": "projetfinale",
+  "version": "1.0.0",
+  "description": "run: ``` npx src ```",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon --exec ts-node src/index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.22",
+    "ts-node": "^10.9.1",
+    "typedoc": "^0.24.1"
+  },
+  "dependencies": {
+    "typescript": "^5.0.4"
+  }
+}
+
